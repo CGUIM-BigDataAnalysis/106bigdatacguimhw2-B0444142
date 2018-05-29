@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527593084653.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "195148E4",
+    "lastKnownWriteTime" : 13229817834242158,
+    "last_content_update" : 1527593084653,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CDC8305C",
+        "caption" : "sumdf",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sumdf&cache_key=CDC8305C",
+        "displayedObservations" : 29,
+        "environment" : "",
+        "object" : "sumdf",
+        "preview" : 0,
+        "totalObservations" : 29,
+        "variables" : 2
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
